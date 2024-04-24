@@ -2,7 +2,8 @@
 
 ## Installation
 
-###System requirements
+### System requirements
+
 * Docker
 * Git
 
@@ -17,8 +18,8 @@ cd app.freepethealth.com
 docker compose up
 ```
 
-###Usage
+### Usage
 
 Test from a browser at: http://localhost:8000
 
-NOTE: Requires ```git@github.com:ejarnutowski/app.freepethealth.com.git``` to be installed and running on port 3000.
+NOTE: Requires ```git@github.com:ejarnutowski/api.freepethealth.com.git``` to be installed and running at ```http://localhost:3000```.
